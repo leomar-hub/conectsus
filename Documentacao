@@ -1,0 +1,12 @@
+Payload para aquisição do token
+{
+    "body":{
+        "login": "",
+        "senha": ""
+    }
+}
+
+Após logado será retornado o token para acesso as APIs
+Passar no header Authorization = "token" (token adquirido)
+
+## APIs ##
